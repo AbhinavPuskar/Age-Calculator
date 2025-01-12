@@ -1,4 +1,3 @@
-
 function calculateAge() {
     const input = document.getElementById('calculator-input').value;
     const result = document.getElementById('calculator-result');
